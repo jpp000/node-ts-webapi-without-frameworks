@@ -1,21 +1,21 @@
 [
-    {
-        "podcastName": "Flow",
-        "episode": "CBUM - Flow #319",
-        "videoId": "pQSuQmUfS30",
-        "categories": ["saude", "esporte", "bodybuilder"]
-    },
-    {
-        "podcastName": "Flow",
-        "episode": "RUBENS BARRICHELLO - Flow #319",
-        "videoId": "4KDGTdiOV4I",
-        "categories": ["esporte", "corrida"]
-    },
-    {
-        "podcastName": "random",
-        "episode": "JP - Ep #319",
-        "videoId": "000000",
-        "categories": ["esporte", "programacao"]
-    }
+  {
+    "podcastName": "Flow",
+    "episode": "CBUM - Flow #319",
+    "videoId": "pQSuQmUfS30",
+    "categories": [
+      "saude",
+      "esporte",
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "Flow",
+    "episode": "RUBENS BARRICHELLO - Flow #319",
+    "videoId": "4KDGTdiOV4I",
+    "categories": [
+      "esporte",
+      "corrida"
+    ]
+  }
 ]
-

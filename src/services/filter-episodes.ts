@@ -4,8 +4,6 @@ import { PodcastTransferModel } from "../models/podcast-transfer-model";
 import { StatusCode } from "../utils/status-code";
 
 export const serviceFilterEpisodes = async (url: IncomingMessage): Promise<PodcastTransferModel> => {
-
-    
     const queryString = url.url?.split("?p=")[1] || '';
     const data = await repoPodcast(queryString)
     
